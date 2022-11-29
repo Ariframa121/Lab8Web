@@ -34,6 +34,13 @@ Buat file baru dengan nama index.php
 Buat file baru dengan nama tambah.php
 ![Gambar 9](ss/9.png)
 
+dan setelah ditambahkan
+![Gambar 10](ss/11.png)
+
 ### Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
-![Gambar 10](ss/10.png)
+![Gambar 11](ss/11.png)
+
+### Menghapus Data (Delete)
+Buat file baru dengan nama hapus.php
+![Gambar 12](ss/12.png)
