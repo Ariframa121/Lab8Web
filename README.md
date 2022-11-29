@@ -35,7 +35,7 @@ Buat file baru dengan nama tambah.php
 ![Gambar 9](ss/9.png)
 
 dan setelah ditambahkan
-![Gambar 10](ss/11.png)
+![Gambar 10](ss/10.png)
 
 ### Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
